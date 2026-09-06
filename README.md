@@ -12,8 +12,6 @@
 
 <p align="center"><a href="README.md">English</a> · <a href="README_CN.md">中文</a></p>
 
-> 🔥 Recommended / sponsored relay: <a href="https://argolink.io">ArgoLink</a> — a hosted endpoint you can include in your benchmark comparison.
-
 ## Sponsor
 
 <table>

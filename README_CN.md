@@ -12,8 +12,6 @@
 
 <p align="center"><a href="README.md">English</a> · <a href="README_CN.md">中文</a></p>
 
-> 🔥 推荐 / 赞助中转：<a href="https://argolink.io">ArgoLink</a> — 可作为测速对比中的托管接口。
-
 ## 赞助中转
 
 <table>
