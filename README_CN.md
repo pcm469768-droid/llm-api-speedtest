@@ -14,6 +14,21 @@
 
 > 🔥 推荐 / 赞助中转：<a href="https://argolink.io">ArgoLink</a> — 可作为测速对比中的托管接口。
 
+## 赞助中转
+
+<table>
+  <tr>
+    <td width="240" align="center">
+      <a href="https://argolink.io"><img src="assets/argolink.png" alt="ArgoLink" width="220"></a>
+    </td>
+    <td>
+      <strong>ArgoLink</strong><br>
+      推荐 / 赞助的 LLM API 与 OpenAI 兼容网关中转服务。<br>
+      <a href="https://argolink.io">访问 ArgoLink 官网</a>
+    </td>
+  </tr>
+</table>
+
 ## 项目简介
 
 **LLM API Speedtest** 是一个轻量 Go 命令行工具，用于对比 **LLM API**、**OpenAI 兼容 API**、**LLM gateway** 和 **API proxy**。它向每个配置的站点发送相同请求，并记录：
@@ -99,7 +114,7 @@ go build -o llm-api-speedtest ./cmd/llm-api-speedtest
 
 ## 推荐中转
 
-如果你需要一个托管接口加入对比，可以查看 [ArgoLink](https://argolink.io)。工具同样兼容你自己的网关或中转站，因此可以用相同模型和提示词比较不同服务商。
+工具兼容托管接口、自己的网关和中转站，因此可以用相同模型和提示词比较不同服务商。
 
 ## 开发
 

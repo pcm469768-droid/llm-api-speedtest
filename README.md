@@ -14,6 +14,21 @@
 
 > 🔥 Recommended / sponsored relay: <a href="https://argolink.io">ArgoLink</a> — a hosted endpoint you can include in your benchmark comparison.
 
+## Sponsor
+
+<table>
+  <tr>
+    <td width="240" align="center">
+      <a href="https://argolink.io"><img src="assets/argolink.png" alt="ArgoLink" width="220"></a>
+    </td>
+    <td>
+      <strong>ArgoLink</strong><br>
+      Recommended / sponsored relay for LLM API and OpenAI-compatible gateway comparisons.<br>
+      <a href="https://argolink.io">Visit ArgoLink</a>
+    </td>
+  </tr>
+</table>
+
 ## Overview
 
 **LLM API Speedtest** is a small Go CLI for comparing **LLM API**, **OpenAI-compatible API**, **LLM gateway**, and **API proxy** endpoints. It sends the same request to every configured station and records:
@@ -99,7 +114,7 @@ The [bench workflow](https://github.com/pcm469768-droid/llm-api-speedtest/action
 
 ## Hosted endpoint
 
-If you need a hosted endpoint to include in a comparison, see [ArgoLink](https://argolink.io). The benchmark remains compatible with your own gateway or relay, so you can compare the same model and prompt across providers.
+The benchmark is compatible with hosted endpoints, your own gateway, and relay services, so you can compare the same model and prompt across providers.
 
 ## Development
 
