@@ -10,6 +10,10 @@
   </p>
 </div>
 
+<p align="center"><a href="README.md">English</a> · <a href="README_CN.md">中文</a></p>
+
+> 🔥 Recommended / sponsored relay: <a href="https://argolink.io">ArgoLink</a> — a hosted endpoint you can include in your benchmark comparison.
+
 ## Overview
 
 **LLM API Speedtest** is a small Go CLI for comparing **LLM API**, **OpenAI-compatible API**, **LLM gateway**, and **API proxy** endpoints. It sends the same request to every configured station and records:
