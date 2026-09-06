@@ -1,0 +1,20 @@
+{
+  "prompt": "用流畅的中文写一篇约200字的短文,介绍人工智能对日常生活的帮助。不要使用列表,直接分段。",
+  "max_tokens": 300,
+  "stations": [
+    {
+      "id": "argolink",
+      "name": "ArgoLink",
+      "base_url": "https://argolink.io",
+      "key": "YOUR_API_KEY",
+      "models": ["gpt-4o-mini", "claude-haiku", "deepseek-chat"]
+    },
+    {
+      "id": "example-public",
+      "name": "示例:某公共免费接口",
+      "base_url": "https://YOUR_ENDPOINT",
+      "key": "",
+      "models": ["YOUR_MODEL"]
+    }
+  ]
+}
