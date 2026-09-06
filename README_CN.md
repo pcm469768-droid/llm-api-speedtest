@@ -17,12 +17,12 @@
 <table>
   <tr>
     <td width="240" align="center">
-      <a href="https://argolink.io"><img src="assets/argolink.png" alt="ArgoLink" width="220"></a>
+      <a href="https://argolink.io/gh-llm-api-speedtest"><img src="assets/argolink.png" alt="ArgoLink" width="220"></a>
     </td>
     <td>
       <strong>ArgoLink</strong><br>
       推荐 / 赞助的 LLM API 与 OpenAI 兼容网关中转服务。<br>
-      <a href="https://argolink.io">访问 ArgoLink 官网</a>
+      <a href="https://argolink.io/gh-llm-api-speedtest">访问 ArgoLink 官网</a>
     </td>
   </tr>
 </table>

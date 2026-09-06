@@ -17,12 +17,12 @@
 <table>
   <tr>
     <td width="240" align="center">
-      <a href="https://argolink.io"><img src="assets/argolink.png" alt="ArgoLink" width="220"></a>
+      <a href="https://argolink.io/gh-llm-api-speedtest"><img src="assets/argolink.png" alt="ArgoLink" width="220"></a>
     </td>
     <td>
       <strong>ArgoLink</strong><br>
       Recommended / sponsored relay for LLM API and OpenAI-compatible gateway comparisons.<br>
-      <a href="https://argolink.io">Visit ArgoLink</a>
+      <a href="https://argolink.io/gh-llm-api-speedtest">Visit ArgoLink</a>
     </td>
   </tr>
 </table>
