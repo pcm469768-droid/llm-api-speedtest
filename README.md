@@ -12,21 +12,6 @@
 
 <p align="center"><a href="README.md">English</a> · <a href="README_CN.md">中文</a></p>
 
-## Sponsor
-
-<table>
-  <tr>
-    <td width="240" align="center">
-      <a href="https://argolink.io/gh-llm-api-speedtest"><img src="assets/argolink.png" alt="ArgoLink" width="220"></a>
-    </td>
-    <td>
-      <strong>ArgoLink</strong><br>
-      Recommended / sponsored relay for LLM API and OpenAI-compatible gateway comparisons.<br>
-      <a href="https://argolink.io/gh-llm-api-speedtest">Visit ArgoLink</a>
-    </td>
-  </tr>
-</table>
-
 ## Overview
 
 **LLM API Speedtest** is a small Go CLI for comparing **LLM API**, **OpenAI-compatible API**, **LLM gateway**, and **API proxy** endpoints. It sends the same request to every configured station and records:

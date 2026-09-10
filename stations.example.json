@@ -3,9 +3,9 @@
   "max_tokens": 300,
   "stations": [
     {
-      "id": "argolink",
-      "name": "ArgoLink",
-      "base_url": "https://argolink.io",
+      "id": "example-relay",
+      "name": "示例:某中转服务",
+      "base_url": "https://YOUR_ENDPOINT",
       "key": "YOUR_API_KEY",
       "models": ["gpt-4o-mini", "claude-haiku", "deepseek-chat"]
     },
